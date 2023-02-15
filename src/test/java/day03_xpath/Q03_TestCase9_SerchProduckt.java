@@ -61,7 +61,6 @@ public class Q03_TestCase9_SerchProduckt {
 }
 
 
-        git commit -m "first commit"
-        git branch -M main
-        git remote add origin https://github.com/Mhmthrn/com.bizimSeleniumCalismalari.git
-        git push -u origin main
+
+
+
