@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22442d76-f853-4aae-8cac-cc8bc1c404d8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/day03_xpath/Q03_TestCase9_SerchProduckt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day03_xpath/Q03_TestCase9_SerchProduckt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_xpath/Q01_FirtsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_junit/C01_Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day03_xpath/Q01_TestCase1_RegisterUser.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,35 +44,71 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q03_TestCase9_SerchProduckt">
-    <configuration name="Q01_AutoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_webDriverMethodlari.Q01_AutoTest" />
+  <component name="RunManager" selected="JUnit.C01_Exercise.test04">
+    <configuration name="C01_Exercise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.bizimSeleniumCalismalari" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_webDriverMethodlari.*" />
+          <option name="PATTERN" value="day04_junit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day04_junit" />
+      <option name="MAIN_CLASS_NAME" value="day04_junit.C01_Exercise" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q02_AuotoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_webDriverMethodlari.Q02_AuotoTest" />
+    <configuration name="C01_Exercise.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.bizimSeleniumCalismalari" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_webDriverMethodlari.*" />
+          <option name="PATTERN" value="day04_junit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="day04_junit" />
+      <option name="MAIN_CLASS_NAME" value="day04_junit.C01_Exercise" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q02_LoginUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_xpath.Q02_LoginUser" />
+    <configuration name="C01_Exercise.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.bizimSeleniumCalismalari" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04_junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day04_junit" />
+      <option name="MAIN_CLASS_NAME" value="day04_junit.C01_Exercise" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_Exercise.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.bizimSeleniumCalismalari" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04_junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day04_junit" />
+      <option name="MAIN_CLASS_NAME" value="day04_junit.C01_Exercise" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q01_FirtsTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.bizimSeleniumCalismalari" />
       <extension name="coverage">
         <pattern>
@@ -76,29 +116,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q03_TestCase9_SerchProduckt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_xpath.Q03_TestCase9_SerchProduckt" />
-      <module name="com.bizimSeleniumCalismalari" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day03_xpath.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="day03_xpath" />
+      <option name="MAIN_CLASS_NAME" value="day03_xpath.Q01_FirtsTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q03_TestCase9_SerchProduckt" />
-        <item itemvalue="Application.Q02_LoginUser" />
-        <item itemvalue="Application.Q01_AutoTest" />
-        <item itemvalue="Application.Q02_AuotoTest" />
+        <item itemvalue="JUnit.C01_Exercise.test04" />
+        <item itemvalue="JUnit.C01_Exercise" />
+        <item itemvalue="JUnit.C01_Exercise.test01" />
+        <item itemvalue="JUnit.C01_Exercise.test02" />
+        <item itemvalue="JUnit.Q01_FirtsTest.test03" />
       </list>
     </recent_temporary>
   </component>
