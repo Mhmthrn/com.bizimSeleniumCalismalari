@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22442d76-f853-4aae-8cac-cc8bc1c404d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_xpath/Q01_FirtsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_junit/C01_Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_exercises/Q01_testcase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_exercises/Q1_TestCase7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day03_xpath/Q01_TestCase1_RegisterUser.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/4.6.0/selenium-api-4.6.0-sources.jar!/org/openqa/selenium/WebElement.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,80 +45,79 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C01_Exercise.test04">
-    <configuration name="C01_Exercise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Q1_TestCase7.test02">
+    <configuration name="Q01_testcase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.bizimSeleniumCalismalari" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04_junit.*" />
+          <option name="PATTERN" value="day05_exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day04_junit" />
-      <option name="MAIN_CLASS_NAME" value="day04_junit.C01_Exercise" />
+      <option name="PACKAGE_NAME" value="day05_exercises" />
+      <option name="MAIN_CLASS_NAME" value="day05_exercises.Q01_testcase" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Exercise.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q01_testcase.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.bizimSeleniumCalismalari" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04_junit.*" />
+          <option name="PATTERN" value="day05_exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day04_junit" />
-      <option name="MAIN_CLASS_NAME" value="day04_junit.C01_Exercise" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_Exercise.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.bizimSeleniumCalismalari" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day04_junit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day04_junit" />
-      <option name="MAIN_CLASS_NAME" value="day04_junit.C01_Exercise" />
+      <option name="PACKAGE_NAME" value="day05_exercises" />
+      <option name="MAIN_CLASS_NAME" value="day05_exercises.Q01_testcase" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Exercise.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q1_TestCase7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.bizimSeleniumCalismalari" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04_junit.*" />
+          <option name="PATTERN" value="day05_exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day04_junit" />
-      <option name="MAIN_CLASS_NAME" value="day04_junit.C01_Exercise" />
-      <option name="METHOD_NAME" value="test04" />
+      <option name="PACKAGE_NAME" value="day05_exercises" />
+      <option name="MAIN_CLASS_NAME" value="day05_exercises.Q1_TestCase7" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1_TestCase7.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.bizimSeleniumCalismalari" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05_exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day05_exercises" />
+      <option name="MAIN_CLASS_NAME" value="day05_exercises.Q1_TestCase7" />
+      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q01_FirtsTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Q1_TestCase7.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.bizimSeleniumCalismalari" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_xpath.*" />
+          <option name="PATTERN" value="day05_exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day03_xpath" />
-      <option name="MAIN_CLASS_NAME" value="day03_xpath.Q01_FirtsTest" />
+      <option name="PACKAGE_NAME" value="day05_exercises" />
+      <option name="MAIN_CLASS_NAME" value="day05_exercises.Q1_TestCase7" />
       <option name="METHOD_NAME" value="test03" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C01_Exercise.test04" />
-        <item itemvalue="JUnit.C01_Exercise" />
-        <item itemvalue="JUnit.C01_Exercise.test01" />
-        <item itemvalue="JUnit.C01_Exercise.test02" />
-        <item itemvalue="JUnit.Q01_FirtsTest.test03" />
+        <item itemvalue="JUnit.Q1_TestCase7.test02" />
+        <item itemvalue="JUnit.Q1_TestCase7.test03" />
+        <item itemvalue="JUnit.Q1_TestCase7" />
+        <item itemvalue="JUnit.Q01_testcase.test02" />
+        <item itemvalue="JUnit.Q01_testcase" />
       </list>
     </recent_temporary>
   </component>
