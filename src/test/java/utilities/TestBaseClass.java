@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 
 public class TestBaseClass {
-    static WebDriver driver;
+    public static WebDriver driver;
     @BeforeClass
     public static void setup(){
         WebDriverManager.chromedriver().setup();
@@ -22,7 +22,7 @@ public class TestBaseClass {
 
     @AfterClass
     public static void teardown(){
-        driver.close();
+    driver.quit();
 
     }
 
