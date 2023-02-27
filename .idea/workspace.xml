@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22442d76-f853-4aae-8cac-cc8bc1c404d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day10_WebTable/C01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day10_WebTable/C02_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11/C01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11/C02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11/C03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11/ulkeler.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/screnShot/tamSayfa.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day10_WebTable/C02_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day10_WebTable/C02_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,72 +44,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/USER/IdeaProjects/com.bizimSeleniumCalismalari/src/test/java/day11"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.C02_.test">
-    <configuration name="C01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\IdeaProjects\com.bizimSeleniumCalismalari\src\test\java\day11" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.C03.test">
+    <configuration name="C01.test01 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.bizimSeleniumCalismalari" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day09_explicitlyWait_Exercises.*" />
+          <option name="PATTERN" value="day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day09_explicitlyWait_Exercises" />
-      <option name="MAIN_CLASS_NAME" value="day09_explicitlyWait_Exercises.C01" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.bizimSeleniumCalismalari" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day10_WebTable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day10_WebTable" />
-      <option name="MAIN_CLASS_NAME" value="day10_WebTable.C01" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.bizimSeleniumCalismalari" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day10_WebTable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day10_WebTable" />
-      <option name="MAIN_CLASS_NAME" value="day10_WebTable.C01" />
+      <option name="PACKAGE_NAME" value="day11" />
+      <option name="MAIN_CLASS_NAME" value="day11.C01" />
       <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.bizimSeleniumCalismalari" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day09_explicitlyWait_Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day09_explicitlyWait_Exercises" />
-      <option name="MAIN_CLASS_NAME" value="day09_explicitlyWait_Exercises.C01" />
-      <option name="METHOD_NAME" value="test03" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,13 +90,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.bizimSeleniumCalismalari" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11" />
+      <option name="MAIN_CLASS_NAME" value="day11.C02" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.bizimSeleniumCalismalari" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11" />
+      <option name="MAIN_CLASS_NAME" value="day11.C03" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.bizimSeleniumCalismalari" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day11" />
+      <option name="MAIN_CLASS_NAME" value="day11.C03" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C03.test" />
+        <item itemvalue="JUnit.C03" />
+        <item itemvalue="JUnit.C02.test01" />
+        <item itemvalue="JUnit.C01.test01 (1)" />
         <item itemvalue="JUnit.C02_.test" />
-        <item itemvalue="JUnit.C01.test" />
-        <item itemvalue="JUnit.C01.test01" />
-        <item itemvalue="JUnit.C01" />
-        <item itemvalue="JUnit.C01.test03" />
       </list>
     </recent_temporary>
   </component>

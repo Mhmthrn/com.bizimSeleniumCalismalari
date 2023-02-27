@@ -1,18 +1,21 @@
 package day10_WebTable;
 
 import com.github.javafaker.Faker;
+import org.apache.commons.io.FileUtils;
 import org.junit.Assert;
 import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.interactions.WheelInput;
 import utilities.TestBase;
+
+import java.io.File;
+import java.io.IOException;
 
 public class C02_ extends TestBase {
 
     @Test
-    public void test(){
+    public void test() throws IOException {
         //https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login adrtesine git
         driver.get("https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login");
         //bank maneger login butonuna tikla
@@ -65,6 +68,17 @@ public class C02_ extends TestBase {
 
         wait(2);
 
+
+
+        String sutun=driver.findElement(By.xpath("//td[2]")).getText();
+
+        String satir=driver.findElement(By.xpath("//td[@class='ng-binding'][3]")).getText();
+
+        System.out.println("Istenen data 2 satir 3 sutun "+sutun+"   " +satir);
+        
+
+
+
         // musteri bilgi listesini tekrar yazdirin ve eklediginiz yeni musterinin listede oldugunu test edin
          tumBilgiler=driver.findElement(By.xpath("//table[@class='table table-bordered table-striped']"));
 
@@ -72,6 +86,13 @@ public class C02_ extends TestBase {
         String expectedIsim="Tomy";
 
         Assert.assertTrue(tumBilgiler.getText().contains(expectedIsim));
+
+        TakesScreenshot tss=(TakesScreenshot) driver;
+        File tamSayfaSShot=new File("src/test/java/screnShot/tamSayfa.jpeg");
+
+        File geciciRsim=tss.getScreenshotAs(OutputType.FILE);
+
+        FileUtils.copyFile(geciciRsim,tamSayfaSShot);
 
     }
 
